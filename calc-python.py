@@ -1,5 +1,5 @@
 # Addition
-def add(x, y, z):
+def add(x, y):
     return x + y
 
 # Subtraction
@@ -26,7 +26,7 @@ Choose an operation from the list:
 4. Divide
 """)
     number1 = input("Enter the first number: ")
-    number2 = input("Enter the second number: ")
+    number2 = input("Enter the second number: ");;
 
     try:
         number1 = float(number1)
