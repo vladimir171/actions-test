@@ -1,5 +1,5 @@
 # Addition
-def add(x, y):
+def add(x, y, z):
     return x + y
 
 # Subtraction
